@@ -1,7 +1,7 @@
 
-  # Fintech Dashboard Design
+  # JX402 Cross-border Payment Engine
 
-  This is a code bundle for Fintech Dashboard Design. The original project is available at https://www.figma.com/design/bmpGqLY239tlSjGEmyMZn3/Fintech-Dashboard-Design.
+  This is a code bundle for JX402 Cross-border Payment Engine.
 
   ## Running the code
 
